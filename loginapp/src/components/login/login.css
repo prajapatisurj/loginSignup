@@ -1,6 +1,16 @@
 .LoginField{
 
 }
+.wrapper-form {
+    align-items: center;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 50px #555;
+  background-color: #ffffff;
+}
 .ImgMain{
     background-image:cover;
     height:100vh;
